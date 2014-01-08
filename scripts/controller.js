@@ -12,10 +12,6 @@ fcageApp.controller('navCtlr', function ($scope) {
 			'block': 'block-8'
 		},
 		{	
-			'section': 'contact',
-			'block': 'block-9'
-		},
-		{	
 			'section': 'multi-platform',
 			'block': 'block-2'
 		},
